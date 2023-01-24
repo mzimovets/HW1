@@ -9,6 +9,6 @@ while(i < number)
 {
     if ((i % 2) == 0)
     {
-        System.Console.WriteLine(i + ",");
+        System.Console.WriteLine(i + ",F");
     }
 }
